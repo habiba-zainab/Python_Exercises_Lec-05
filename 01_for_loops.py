@@ -187,3 +187,8 @@ print("\n--- Q7: zip() Function ---")
 names = ['Sia', 'Benjamin', 'Parth']
 ages = [23, 26, 29]
 cities = ['NYC', 'LA', 'Chicago']
+
+print("Combined data: ")
+for name, age, city in zip(names, ages, cities) :
+    print(name + ",", age, ",", city)
+
