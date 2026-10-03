@@ -69,3 +69,7 @@ print("\n--- Q3: Max & Min ---")
 scores = [78, 92, 85, 88, 76, 95, 89]
 print("Scores: ", scores)
 
+maximum = scores[0]
+max_index = 0
+minimum = scores[0]
+min_index = 0
