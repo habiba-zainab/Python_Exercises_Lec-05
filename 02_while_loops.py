@@ -154,3 +154,10 @@ while True :
 # Q7:  while with continue - skip even numbers
 #    Print odd numbers from 1 to 20
 #    Use continue to skip even numbers
+
+print("\n--- Q7: while with continue ---")
+
+num = 1
+count = 0 
+
+print("Odd numbers from 1 to 20: ")
