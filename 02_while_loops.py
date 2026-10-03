@@ -64,4 +64,8 @@ while current >= 1 :
     print(str(result), "×", current, "=", result * current)
     result = result * current
     current -= 1
-    
+
+print()
+print(str(n) + "! =", result)
+
+# ----------------------------------------------------------
