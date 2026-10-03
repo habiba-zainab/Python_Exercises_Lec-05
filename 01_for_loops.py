@@ -118,3 +118,11 @@ print("=" * 25)
 #    - Even numbers from 0 to 20 using range(0, 21, 2)
 #    - Numbers from 10 to 1 (descending) 
 #               using range(10, 0, -1)
+
+print("\n--- Q5: range() Function ---")
+
+print("range(10): ", end=" ")
+for n in range(10) :
+    print(n, end=" ")
+print()
+
