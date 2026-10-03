@@ -17,3 +17,8 @@
 #          coordinates = (10, 20, 30, 40, 50)
 #    Calculate sum and average
 #    Find index of maximum value
+
+print("\n--- Q1: Loop through Tuple ---")
+
+coordinates = (10, 20, 30, 40, 50)
+print("Coordinates: ", coordinates)
