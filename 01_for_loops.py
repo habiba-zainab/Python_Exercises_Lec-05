@@ -233,3 +233,14 @@ for num in numbers :
 print("\n--- Q9: continue Statement ---")
 
 print("Numbers (skipping multiples of 3): ")
+
+skipped = 0
+for num in range(1, 21) :
+    if num % 3 == 0 :
+        skipped += 1
+        continue
+    print(num, end=" ")
+print()
+print("\nSkipped: ", skipped, "numbers (3, 6, 9, 12, 15, 18)")
+
+# ----------------------------------------------------------
