@@ -21,3 +21,8 @@
 print("\n--- Q1: Basic For Loop ---")
 
 fruits = ['orange', 'litchi', 'papaya', 'kiwi']
+
+print("Fruits: ")
+for fruit in fruits:
+    print(fruit)
+
