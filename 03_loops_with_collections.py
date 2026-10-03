@@ -147,3 +147,10 @@ print("Squares of odd: ", odd_squares)
 # ==========================================================
 # PART C:   Zip & Nested Sequence Loops 
 # ==========================================================
+
+# Q6:  Loop through multiple lists with zip
+#    Given:
+#            products = ['Laptop', 'Mouse', 'Keyboard']
+#            prices = [999, 25, 75]
+#            stock = [5, 50, 20]
+#    Combine and calculate total inventory value
