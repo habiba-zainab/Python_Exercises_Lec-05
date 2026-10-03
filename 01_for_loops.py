@@ -73,3 +73,9 @@ maximum = scores[0]
 max_index = 0
 minimum = scores[0]
 min_index = 0
+
+for i in range(len(scores)) :
+    if scores[i] > maximum :
+        maximum = scores[i]
+        max_index = i
+        
