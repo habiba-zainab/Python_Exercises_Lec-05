@@ -81,4 +81,8 @@ for i in range(len(scores)) :
     if scores[i] < minimum :
         minimum = scores[i]
         min_index = i
-        
+
+print("Maximum: ", maximum, "(found at index", str(max_index) + ")")
+print("Minimum: ", minimum, "(found at index", str(min_index) + ")")
+
+# ----------------------------------------------------------
