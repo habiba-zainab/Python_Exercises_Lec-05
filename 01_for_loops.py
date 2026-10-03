@@ -51,3 +51,9 @@ count = 0
 for num in numbers:
     total += num
     count += 1
+
+print("Sum: ", total)
+print("Count: ", count)
+print("Average: ", total / count)
+
+# ----------------------------------------------------------
