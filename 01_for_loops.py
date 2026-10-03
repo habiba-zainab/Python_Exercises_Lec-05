@@ -229,3 +229,7 @@ for num in numbers :
 #    Print numbers from 1 to 20
 #    Skip numbers divisible by 3
 #    Count how many numbers were skipped
+
+print("\n--- Q9: continue Statement ---")
+
+print("Numbers (skipping multiples of 3): ")
