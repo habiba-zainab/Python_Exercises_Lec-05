@@ -216,3 +216,12 @@ digit_sum = 0
 
 print("Number: ", number)
 print("\nExtracting digits: ")
+
+while number > 0 :
+    digit = number % 10
+    digit_sum += digit
+    print(str(number), "→", digit, "(sum: ", str(digit_sum) + ")")
+    number = number // 10
+print("\nSum of digits: ", digit_sum)
+
+# ----------------------------------------------------------
