@@ -96,3 +96,10 @@ print("Minimum: ", minimum, "(found at index", str(min_index) + ")")
 #    Input:   number = 7, range = 10
 #    Format output nicely
 
+print("\n--- Q4: Multiplication Table ---")
+
+number = 7
+
+print("Multiplication Table for", str(number) + ":")
+print("=" * 25)
+
