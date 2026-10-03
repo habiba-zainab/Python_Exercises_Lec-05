@@ -50,3 +50,9 @@ print("Maximum: ", max_val, "at index", max_idx)
 print("\n--- Q2: Loop through Dictionary ---")
 
 student = {'name' : 'Katherine', 'age' : 20, 'grade' : 'A', 'gpa' : 3.8}
+
+print("Keys: ")
+for key in student.keys() :
+    print("-", key)
+
+    
