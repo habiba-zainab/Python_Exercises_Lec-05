@@ -98,3 +98,9 @@ print("Sorted: ", sorted(list(unique_nums)))
 # ==========================================================
 # PART B:   Data Transformation (Comprehensions)
 # ==========================================================
+
+# Q4: Loop through list and modify
+#    Given: 
+#           numbers = [1, 2, 3, 4, 5]
+#    Create new list with each number squared
+#    Do with both loop and list comprehension
