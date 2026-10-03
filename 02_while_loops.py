@@ -196,3 +196,9 @@ while index < len(test_inputs) :
     if 1 <= age <= 120 :
         print("Valid age entered: ", age)
         break
+    else: 
+        print("Invalid! Age must be between 1 and 120.")
+        print()
+    index += 1
+
+# ----------------------------------------------------------
