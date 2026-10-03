@@ -207,3 +207,12 @@ while index < len(test_inputs) :
 #    Given a number, find sum of its digits
 #    Use while loop to extract digits
 #    Example: 12345 → 1 + 2 + 3 + 4 + 5 = 15
+
+print("\n--- Q9: Digit Sum ---")
+
+number = 12345
+original = number
+digit_sum = 0
+
+print("Number: ", number)
+print("\nExtracting digits: ")
