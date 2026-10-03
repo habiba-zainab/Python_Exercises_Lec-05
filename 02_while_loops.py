@@ -53,3 +53,9 @@ while count >= 1 :
 #    Show step-by-step calculation
 #    Example: 5! = 5 × 4 × 3 × 2 × 1 = 120
 
+print("\n--- Q3: Factorial ---")
+
+n= 5
+result = n
+current = n
+print("Calculating", str(n) + "!")
