@@ -79,3 +79,11 @@ print(str(n) + "! =", result)
 #    User has 5 attempts
 #    Give hints (higher / lower)
 #    (Use predefined guesses for practice)
+
+print("\n--- Q4: Number Guessing ---")
+
+secret = 7
+guesses = [5, 8, 7]
+attempt = 0
+
+print("Guess the number (1 - 10): ")
