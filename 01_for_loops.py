@@ -167,3 +167,9 @@ print("\nStarting from 1: ")
 for i, color in enumerate(colors, 1) :
     print(str(i) + ":", color)
 
+print("\nEven indices only: ")
+for i, color in enumerate(colors) :
+    if i % 2 == 0 :
+        print(str(i) + ":", color)
+
+# ----------------------------------------------------------
