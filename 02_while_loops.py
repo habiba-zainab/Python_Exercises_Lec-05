@@ -55,7 +55,13 @@ while count >= 1 :
 
 print("\n--- Q3: Factorial ---")
 
-n= 5
+n = 5
 result = n
 current = n
 print("Calculating", str(n) + "!")
+
+while current >= 1 :
+    print(str(result), "×", current, "=", result * current)
+    result = result * current
+    current -= 1
+    
