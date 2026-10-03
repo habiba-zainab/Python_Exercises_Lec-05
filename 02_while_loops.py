@@ -189,3 +189,8 @@ test_inputs = [0, 150, 25]
 index = 0
 
 print("Enter your age (1 - 120): ")
+
+while index < len(test_inputs) :
+    age = test_inputs[index]
+    print("Input: ", age)
+    
