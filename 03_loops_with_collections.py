@@ -64,3 +64,9 @@ for key, value in student.items() :
     print(key + ":", value)
 
 # ----------------------------------------------------------
+
+# Q3: Loop through set 
+#    Given:
+#          unique_nums = {5, 2, 8, 1, 9, 3}
+#    Find sum, max, min
+#    Create sorted list from set
