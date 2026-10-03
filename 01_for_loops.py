@@ -200,3 +200,9 @@ print("\nDictionary: ", name_age_dict)
 # ==========================================================
 # PART D:   Loop Control (break, continue)
 # ==========================================================
+
+# Q8: break statement - exit loop early
+#    Given:
+#          numbers = [2, 4, 6, 7, 8, 10, 12]
+#    Find first odd number and break
+#    Count how many numbers were checked
