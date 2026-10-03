@@ -106,3 +106,11 @@ while attempt < len(guesses) :
 #    Generate first N Fibonacci numbers
 #    N = 10 
 #    Show sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+
+print("\n--- Q5: Fibonacci Sequence ---")
+
+n = 10 
+a = 0
+b = 1
+count = 0
+print("First", n, "Fibonacci numbers: ")
