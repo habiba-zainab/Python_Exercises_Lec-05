@@ -22,3 +22,7 @@ print("\n--- Q1: Loop through Tuple ---")
 
 coordinates = (10, 20, 30, 40, 50)
 print("Coordinates: ", coordinates)
+
+total_sum = 0
+max_val = coordinates[0]
+max_idx = 0
