@@ -160,3 +160,14 @@ print("\n--- Q6: zip Multiple Lists ---")
 products = ['Laptop', 'Mouse', 'Keyboard']
 prices = [999, 25, 75]
 stock = [5, 50, 20]
+
+total_inventory_value = 0
+print("Inventory: ")
+for prod, price, qty in zip(products, prices, stock) :
+    item_value = price * qty
+    total_inventory_value += item_value
+    print(prod + ": $" + str(price), "x", qty, "= $" + str(item_value))
+
+print("\nTotal Inventory Value: $" + str(total_inventory_value))
+
+# ----------------------------------------------------------
