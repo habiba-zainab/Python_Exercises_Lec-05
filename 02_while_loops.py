@@ -183,3 +183,9 @@ print("\nTotal odd numbers: ", count)
 #    Valid:  between 1 and 120
 #    (Use predefined inputs for practice)
 
+print("\n--- Q8: Input Validation ---")
+
+test_inputs = [0, 150, 25]
+index = 0
+
+print("Enter your age (1 - 120): ")
