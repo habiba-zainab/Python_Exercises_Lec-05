@@ -129,3 +129,9 @@ print("Squared: ", squared_comp)
 #    Create list of even numbers
 #    Create list of squares of odd numbers
 #    Use comprehension
+
+print("\n--- Q5: List Comprehension ---")
+
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+print("Original: ", numbers)
