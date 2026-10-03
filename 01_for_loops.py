@@ -206,3 +206,8 @@ print("\nDictionary: ", name_age_dict)
 #          numbers = [2, 4, 6, 7, 8, 10, 12]
 #    Find first odd number and break
 #    Count how many numbers were checked
+
+print("\n--- Q8: break Statement ---")
+
+numbers = [2, 4, 6, 7, 8, 10, 12]
+print("Searching for first odd number...")
