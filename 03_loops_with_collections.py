@@ -177,3 +177,9 @@ print("\nTotal Inventory Value: $" + str(total_inventory_value))
 #            nested = [[1, 2, 3], [4, 5], [6, 7, 8, 9]]
 #    Flatten to single list
 #    Use both loop and comprehension
+
+print("\n--- Q7: Flatten Lists ---")
+
+nested = [[1, 2, 3], [4, 5], [6, 7, 8, 9]]
+
+print("Nested: ", nested)
