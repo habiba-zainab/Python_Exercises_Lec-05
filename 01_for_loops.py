@@ -136,4 +136,9 @@ for n in range(0, 21, 2) :
     print(n, end=" ")
 print()
 
+print("Descending (10-1): ", end=" ")
+for n in range(10, 0, -1) :
+    print(n, end=" ")
+print()
 
+# ----------------------------------------------------------
