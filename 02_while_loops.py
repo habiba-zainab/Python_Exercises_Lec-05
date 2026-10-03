@@ -166,4 +166,10 @@ while num <= 20 :
     if num % 2 == 0 :
         num += 1
         continue
-    
+    print(num, end=" ")
+    count += 1
+    num += 1
+print()
+print("\nTotal odd numbers: ", count)
+
+# ----------------------------------------------------------
