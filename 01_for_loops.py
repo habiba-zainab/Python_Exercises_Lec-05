@@ -103,3 +103,10 @@ number = 7
 print("Multiplication Table for", str(number) + ":")
 print("=" * 25)
 
+for i in range(1, 11) :
+    result = number * i 
+    print(str(number), "x", str(i).ljust(2), "=", result)
+
+print("=" * 25)
+
+# ----------------------------------------------------------
