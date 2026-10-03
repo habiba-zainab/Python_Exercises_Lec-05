@@ -58,4 +58,9 @@ for key in student.keys() :
 print("\nValues: ")
 for value in student.values() :
     print("-", value) 
-    
+
+print("\nItems: ")
+for key, value in student.items() :
+    print(key + ":", value)
+
+# ----------------------------------------------------------
