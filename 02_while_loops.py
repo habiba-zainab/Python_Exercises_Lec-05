@@ -31,3 +31,7 @@ print()
 print("Sum: ", total)
 
 # ----------------------------------------------------------
+
+# Q2: while loop with countdown
+#    Create countdown from 10 to 1
+#    Print "Blast off!" at the end
