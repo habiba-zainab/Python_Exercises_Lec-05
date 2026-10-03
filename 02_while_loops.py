@@ -35,3 +35,15 @@ print("Sum: ", total)
 # Q2: while loop with countdown
 #    Create countdown from 10 to 1
 #    Print "Blast off!" at the end
+
+print("\n--- Q2: Countdown ---")
+
+count = 10 
+print("Countdown: ")
+
+while count >= 1 :
+    print(count)
+    count -= 1
+    print("Blast off!")
+
+# ----------------------------------------------------------
