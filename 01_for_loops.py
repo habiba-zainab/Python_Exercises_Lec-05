@@ -158,3 +158,8 @@ print()
 print("\n--- Q6: enumerate() ---")
 
 colors = ['burgundy', 'maroon', 'brown', 'grey', 'yellow']
+
+print("With index (from 0): ")
+for i, color in enumerate(colors) :
+    print(str(i) + ":", color)
+
