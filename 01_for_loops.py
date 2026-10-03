@@ -154,3 +154,7 @@ print()
 #    Print with index index using enumerate()
 #    Start enumeration from 1 instead of 0
 #    Print only even-indexed items
+
+print("\n--- Q6: enumerate() ---")
+
+colors = ['burgundy', 'maroon', 'brown', 'grey', 'yellow']
