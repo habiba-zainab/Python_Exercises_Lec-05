@@ -87,4 +87,10 @@ for num in unique_nums :
         set_max = num
     if set_min is None or num < set_min :
         set_min = num
-        
+
+print("Sum: ", total_set_sum)
+print("Max: ", set_max)
+print("Min: ", set_min)
+print("Sorted: ", sorted(list(unique_nums)))
+
+# ----------------------------------------------------------
