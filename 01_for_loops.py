@@ -40,3 +40,9 @@ for i in range(len(fruits)) :
 #    - Average
 #    - Count of numbers
 #    Use loop (don't use sum() function initially)
+
+print("\n--- Q2: Sum & Average ---")
+
+numbers = [12, 45, 23, 67, 34, 89, 11, 56]
+print("Numbers: ", numbers)
+
