@@ -101,3 +101,8 @@ while attempt < len(guesses) :
         print("Too high!")
 
 # ----------------------------------------------------------
+
+# Q5:  Fibonacci sequence
+#    Generate first N Fibonacci numbers
+#    N = 10 
+#    Show sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
