@@ -46,3 +46,7 @@ print("Maximum: ", max_val, "at index", max_idx)
 #      student = {'name' : 'Katherine', 'age' : 20, 
 #                  'grade' : 'A', 'gpa' : 3.8}
 #    Print keys, values, and items seperately
+
+print("\n--- Q2: Loop through Dictionary ---")
+
+student = {'name' : 'Katherine', 'age' : 20, 'grade' : 'A', 'gpa' : 3.8}
