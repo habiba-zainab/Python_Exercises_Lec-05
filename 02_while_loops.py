@@ -133,3 +133,10 @@ print()
 #            find first number divisible by both 3 and 5
 #    Start from 1
 #    Break when found
+
+print("\n--- Q6: while with break ---")
+
+num = 1
+
+print("Finding first number divisible by both 3 and 5: ")
+
