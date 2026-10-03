@@ -87,3 +87,9 @@ guesses = [5, 8, 7]
 attempt = 0
 
 print("Guess the number (1 - 10): ")
+
+while attempt < len(guesses) :
+    guess = guesses[attempt]
+    attempt += 1
+    print("Attempt " + str(attempt) + ":", guess)
+    
