@@ -173,3 +173,11 @@ for i, color in enumerate(colors) :
         print(str(i) + ":", color)
 
 # ----------------------------------------------------------
+
+# Q7: zip() - iterate multiple lists together
+#    Given: 
+#          names = ['Sia', 'Benjamin', 'Parth']
+#          ages = [23, 26, 29]
+#          cities = ['NYC', 'LA', 'Chicago']
+#    Combine and print using zip()
+#    Create dictionary from names and ages
