@@ -11,3 +11,8 @@
 # ==========================================================
 # PART A:   Basic While Loops
 # ==========================================================
+
+# Q1: Basic while loop - count from 1 to 10
+#    Use while loop to print numbers 1 to 10
+#    Also print sum of these numbers
+
