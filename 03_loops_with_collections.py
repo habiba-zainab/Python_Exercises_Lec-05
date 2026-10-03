@@ -190,3 +190,9 @@ for sublist in nested :
         flat_loops.append(item)
 print("\nFlattened (using loops): ")
 print(flat_loops)
+
+flat_comp = [item for sublist in nested for item in sublist]
+print("\nFlattened (comprehension): ")
+print(flat_comp)
+
+# ----------------------------------------------------------
