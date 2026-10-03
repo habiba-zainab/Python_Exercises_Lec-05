@@ -70,3 +70,9 @@ for key, value in student.items() :
 #          unique_nums = {5, 2, 8, 1, 9, 3}
 #    Find sum, max, min
 #    Create sorted list from set
+
+print("\n--- Q3: Lopp thorugh Set ---")
+
+unique_nums = {5, 2, 8, 1, 9, 3}
+
+print("Set: ", unique_nums)
