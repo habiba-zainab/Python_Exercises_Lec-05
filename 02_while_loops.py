@@ -26,4 +26,8 @@ while count <= 10 :
     print(count, end=" ")
     total += count
     count += 1
-    
+
+print()
+print("Sum: ", total)
+
+# ----------------------------------------------------------
