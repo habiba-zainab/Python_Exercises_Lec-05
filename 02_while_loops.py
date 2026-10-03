@@ -128,3 +128,8 @@ print()
 # PART C:      Loop Control
 # ==========================================================
 
+# Q6:  while with break - find first divisible
+#    Given a number, 
+#            find first number divisible by both 3 and 5
+#    Start from 1
+#    Break when found
