@@ -110,3 +110,11 @@ for i in range(1, 11) :
 print("=" * 25)
 
 # ----------------------------------------------------------
+
+# Q5: range() function - three variations
+#    Create and print:
+#    - Numbers from 0 to 9 using range(10)
+#    - Numbers from 5 to 15 usingmrange(5, 16)
+#    - Even numbers from 0 to 20 using range(0, 21, 2)
+#    - Numbers from 10 to 1 (descending) 
+#               using range(10, 0, -1)
