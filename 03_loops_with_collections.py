@@ -104,3 +104,9 @@ print("Sorted: ", sorted(list(unique_nums)))
 #           numbers = [1, 2, 3, 4, 5]
 #    Create new list with each number squared
 #    Do with both loop and list comprehension
+
+print("\n--- Q4: Loop & Modify List ---")
+
+numbers = [1, 2, 3, 4, 5]
+
+print("Original: ", numbers)
