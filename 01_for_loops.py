@@ -224,3 +224,8 @@ for num in numbers :
         print("Checking: ", num, "(even)")
 
 # ----------------------------------------------------------
+
+# Q9: continue statement - skip iterations
+#    Print numbers from 1 to 20
+#    Skip numbers divisible by 3
+#    Count how many numbers were skipped
