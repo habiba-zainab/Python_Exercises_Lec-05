@@ -40,3 +40,9 @@ print("Average: ", avg_val)
 print("Maximum: ", max_val, "at index", max_idx)
 
 # ----------------------------------------------------------
+
+# Q2: Loop through dictionary - keys, values, items
+#    Given: 
+#      student = {'name' : 'Katherine', 'age' : 20, 
+#                  'grade' : 'A', 'gpa' : 3.8}
+#    Print keys, values, and items seperately
