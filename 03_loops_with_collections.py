@@ -80,3 +80,11 @@ print("Set: ", unique_nums)
 total_set_sum = 0
 set_max = None
 set_min = None
+
+for num in unique_nums :
+    total_set_sum += num
+    if set_max is None or num > set_max :
+        set_max = num
+    if set_min is None or num < set_min :
+        set_min = num
+        
