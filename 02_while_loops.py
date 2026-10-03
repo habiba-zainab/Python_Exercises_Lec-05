@@ -193,4 +193,6 @@ print("Enter your age (1 - 120): ")
 while index < len(test_inputs) :
     age = test_inputs[index]
     print("Input: ", age)
-    
+    if 1 <= age <= 120 :
+        print("Valid age entered: ", age)
+        break
