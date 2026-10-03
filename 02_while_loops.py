@@ -202,3 +202,8 @@ while index < len(test_inputs) :
     index += 1
 
 # ----------------------------------------------------------
+
+# Q9: Digit sum calculator
+#    Given a number, find sum of its digits
+#    Use while loop to extract digits
+#    Example: 12345 → 1 + 2 + 3 + 4 + 5 = 15
