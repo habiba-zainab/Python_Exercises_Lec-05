@@ -183,3 +183,10 @@ print("\n--- Q7: Flatten Lists ---")
 nested = [[1, 2, 3], [4, 5], [6, 7, 8, 9]]
 
 print("Nested: ", nested)
+
+flat_loops = []
+for sublist in nested :
+    for item in sublist :
+        flat_loops.append(item)
+print("\nFlattened (using loops): ")
+print(flat_loops)
