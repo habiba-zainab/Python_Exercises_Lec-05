@@ -116,3 +116,9 @@ for num in numbers :
     squared_loop.append(num * num)
 print("\nUsing loop: ")
 print("Squared: ", squared_loop)
+
+squared_comp = [num * num for num in numbers]
+print("\nUsing comprehension: ")
+print("Squared: ", squared_comp)
+
+# ----------------------------------------------------------
