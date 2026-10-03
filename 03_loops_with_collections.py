@@ -154,3 +154,9 @@ print("Squares of odd: ", odd_squares)
 #            prices = [999, 25, 75]
 #            stock = [5, 50, 20]
 #    Combine and calculate total inventory value
+
+print("\n--- Q6: zip Multiple Lists ---")
+
+products = ['Laptop', 'Mouse', 'Keyboard']
+prices = [999, 25, 75]
+stock = [5, 50, 20]
