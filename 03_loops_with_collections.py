@@ -171,3 +171,9 @@ for prod, price, qty in zip(products, prices, stock) :
 print("\nTotal Inventory Value: $" + str(total_inventory_value))
 
 # ----------------------------------------------------------
+
+# Q7:  Flatten nested lists
+#    Given:
+#            nested = [[1, 2, 3], [4, 5], [6, 7, 8, 9]]
+#    Flatten to single list
+#    Use both loop and comprehension
