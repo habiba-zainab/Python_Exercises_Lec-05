@@ -63,3 +63,9 @@ print("Average: ", total / count)
 #          scores = [78, 92, 85, 88, 76, 95, 89]
 #    Find maximum and minimum without using max() or min()
 #    Track with iterations found the max / min
+
+print("\n--- Q3: Max & Min ---")
+
+scores = [78, 92, 85, 88, 76, 95, 89]
+print("Scores: ", scores)
+
