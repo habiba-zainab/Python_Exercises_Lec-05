@@ -86,3 +86,7 @@ print("Maximum: ", maximum, "(found at index", str(max_index) + ")")
 print("Minimum: ", minimum, "(found at index", str(min_index) + ")")
 
 # ----------------------------------------------------------
+
+# ==========================================================
+# PART B:   range() Function
+# ==========================================================
