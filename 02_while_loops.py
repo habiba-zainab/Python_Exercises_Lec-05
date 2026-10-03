@@ -177,3 +177,9 @@ print("\nTotal odd numbers: ", count)
 # ==========================================================
 # PART D:   Input Checking & Digit Extraction  
 # ==========================================================
+
+# Q8:  Input validation loop
+#    Keep asking for age until valid input
+#    Valid:  between 1 and 120
+#    (Use predefined inputs for practice)
+
