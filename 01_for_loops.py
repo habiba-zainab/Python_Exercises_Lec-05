@@ -146,3 +146,11 @@ print()
 # ==========================================================
 # PART C:   enumerate() & zip()
 # ==========================================================
+
+# Q6: enumerate() - get index and value
+#    Given:
+#             colors = ['burgundy', 'maroon', 'brown', 
+#                        'grey', 'yellow']
+#    Print with index index using enumerate()
+#    Start enumeration from 1 instead of 0
+#    Print only even-indexed items
