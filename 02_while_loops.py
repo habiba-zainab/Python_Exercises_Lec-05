@@ -16,3 +16,8 @@
 #    Use while loop to print numbers 1 to 10
 #    Also print sum of these numbers
 
+print("\n--- Q1: Basic While Loop ---")
+
+count = 1 
+total = 0
+print("Counting from 1 to 10: ")
