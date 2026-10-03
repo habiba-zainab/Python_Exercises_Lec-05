@@ -110,3 +110,9 @@ print("\n--- Q4: Loop & Modify List ---")
 numbers = [1, 2, 3, 4, 5]
 
 print("Original: ", numbers)
+
+squared_loop = []
+for num in numbers :
+    squared_loop.append(num * num)
+print("\nUsing loop: ")
+print("Squared: ", squared_loop)
