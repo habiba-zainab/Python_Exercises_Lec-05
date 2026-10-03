@@ -90,3 +90,9 @@ print("Minimum: ", minimum, "(found at index", str(min_index) + ")")
 # ==========================================================
 # PART B:   range() Function
 # ==========================================================
+
+# Q4: Multiplication table generator 
+#    Generate multiplication table for a given number
+#    Input:   number = 7, range = 10
+#    Format output nicely
+
