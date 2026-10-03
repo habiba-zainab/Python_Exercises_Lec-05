@@ -181,3 +181,9 @@ for i, color in enumerate(colors) :
 #          cities = ['NYC', 'LA', 'Chicago']
 #    Combine and print using zip()
 #    Create dictionary from names and ages
+
+print("\n--- Q7: zip() Function ---")
+
+names = ['Sia', 'Benjamin', 'Parth']
+ages = [23, 26, 29]
+cities = ['NYC', 'LA', 'Chicago']
