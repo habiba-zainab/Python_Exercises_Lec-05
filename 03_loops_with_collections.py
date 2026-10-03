@@ -32,4 +32,11 @@ for idx, val in enumerate(coordinates) :
     if val > max_val :
         max_val = val
         max_idx = idx
-        
+
+avg_val = total_sum / len(coordinates) 
+
+print("Sum: ", total_sum)
+print("Average: ", avg_val)
+print("Maximum: ", max_val, "at index", max_idx)
+
+# ----------------------------------------------------------
