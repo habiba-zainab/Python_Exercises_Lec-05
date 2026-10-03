@@ -31,3 +31,12 @@ for i in range(len(fruits)) :
     print(str(i + 1) + ".", fruits[i])
 
 # ----------------------------------------------------------
+
+# Q2: Sum and average using for loop 
+#    Given: 
+#         numbers = [12, 45, 23, 67, 34, 89, 11, 56]
+#    Calculate:
+#    - Sum of all numbers
+#    - Average
+#    - Count of numbers
+#    Use loop (don't use sum() function initially)
