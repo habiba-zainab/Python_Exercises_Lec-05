@@ -145,3 +145,8 @@ while True :
         print("Checking: ", num, "✓")
         print("\nFound: ", num)
         break
+    else: 
+        print("Checking: ", num, "✗")
+        num += 1
+
+# ----------------------------------------------------------
