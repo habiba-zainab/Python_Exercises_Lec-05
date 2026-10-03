@@ -161,3 +161,9 @@ num = 1
 count = 0 
 
 print("Odd numbers from 1 to 20: ")
+
+while num <= 20 :
+    if num % 2 == 0 :
+        num += 1
+        continue
+    
