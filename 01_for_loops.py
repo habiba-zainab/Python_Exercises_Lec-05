@@ -57,3 +57,9 @@ print("Count: ", count)
 print("Average: ", total / count)
 
 # ----------------------------------------------------------
+
+# Q3: Find max and min using loop
+#    Given: 
+#          scores = [78, 92, 85, 88, 76, 95, 89]
+#    Find maximum and minimum without using max() or min()
+#    Track with iterations found the max / min
