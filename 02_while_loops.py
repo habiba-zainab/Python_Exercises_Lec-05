@@ -114,3 +114,12 @@ a = 0
 b = 1
 count = 0
 print("First", n, "Fibonacci numbers: ")
+
+while count < n :
+    print(a, end=", " if count < n - 1 else "")
+    next_val = a + b
+    a = bb = next_val
+    count += 1
+print()
+
+# ----------------------------------------------------------
