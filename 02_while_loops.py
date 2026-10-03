@@ -73,3 +73,9 @@ print(str(n) + "! =", result)
 # ==========================================================
 # PART B:   Practical While Applications
 # ==========================================================
+
+# Q4: Number guessing game (simplified)
+#    Secret number = 7
+#    User has 5 attempts
+#    Give hints (higher / lower)
+#    (Use predefined guesses for practice)
