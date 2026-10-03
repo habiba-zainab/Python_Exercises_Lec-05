@@ -122,3 +122,10 @@ print("\nUsing comprehension: ")
 print("Squared: ", squared_comp)
 
 # ----------------------------------------------------------
+
+# Q5: List comprrehension - filter even numbers
+#    Given: 
+#          numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#    Create list of even numbers
+#    Create list of squares of odd numbers
+#    Use comprehension
