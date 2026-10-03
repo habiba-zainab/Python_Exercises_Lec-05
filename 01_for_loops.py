@@ -192,3 +192,7 @@ print("Combined data: ")
 for name, age, city in zip(names, ages, cities) :
     print(name + ",", age, ",", city)
 
+name_age_dict = dict(zip(names, ages))
+print("\nDictionary: ", name_age_dict)
+
+# ----------------------------------------------------------
