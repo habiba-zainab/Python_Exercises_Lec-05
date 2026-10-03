@@ -163,3 +163,7 @@ print("With index (from 0): ")
 for i, color in enumerate(colors) :
     print(str(i) + ":", color)
 
+print("\nStarting from 1: ")
+for i, color in enumerate(colors, 1) :
+    print(str(i) + ":", color)
+
