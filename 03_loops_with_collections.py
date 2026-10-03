@@ -138,3 +138,8 @@ print("Original: ", numbers)
 
 evens = [num for num in numbers if num % 2 == 0]
 odd_squares = [num * num for num in numbers if num % 2 != 0]
+
+print("Even numbers: ", evens)
+print("Squares of odd: ", odd_squares)
+
+# ----------------------------------------------------------
