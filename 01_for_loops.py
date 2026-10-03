@@ -46,3 +46,8 @@ print("\n--- Q2: Sum & Average ---")
 numbers = [12, 45, 23, 67, 34, 89, 11, 56]
 print("Numbers: ", numbers)
 
+total = 0
+count = 0
+for num in numbers:
+    total += num
+    count += 1
