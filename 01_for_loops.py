@@ -126,3 +126,8 @@ for n in range(10) :
     print(n, end=" ")
 print()
 
+print("range(5, 16): ", end=" ")
+for n in range(5, 16) : 
+    print(n, end=" ")
+print()
+
