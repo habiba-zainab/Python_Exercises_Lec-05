@@ -76,3 +76,7 @@ print("\n--- Q3: Lopp thorugh Set ---")
 unique_nums = {5, 2, 8, 1, 9, 3}
 
 print("Set: ", unique_nums)
+
+total_set_sum = 0
+set_max = None
+set_min = None
