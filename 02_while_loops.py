@@ -140,3 +140,8 @@ num = 1
 
 print("Finding first number divisible by both 3 and 5: ")
 
+while True :
+    if num % 3 == 0 and num % 5 == 0 :
+        print("Checking: ", num, "✓")
+        print("\nFound: ", num)
+        break
