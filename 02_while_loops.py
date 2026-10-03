@@ -21,3 +21,9 @@ print("\n--- Q1: Basic While Loop ---")
 count = 1 
 total = 0
 print("Counting from 1 to 10: ")
+
+while count <= 10 :
+    print(count, end=" ")
+    total += count
+    count += 1
+    
