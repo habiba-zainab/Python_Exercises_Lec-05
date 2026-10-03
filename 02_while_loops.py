@@ -92,4 +92,12 @@ while attempt < len(guesses) :
     guess = guesses[attempt]
     attempt += 1
     print("Attempt " + str(attempt) + ":", guess)
-    
+    if guess == secret :
+        print("Correct! You won in", attempt, "attempts!")
+        break
+    elif guess < secret :
+        print("Too low!")
+    else: 
+        print("Too high!")
+
+# ----------------------------------------------------------
