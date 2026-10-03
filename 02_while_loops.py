@@ -47,3 +47,9 @@ while count >= 1 :
     print("Blast off!")
 
 # ----------------------------------------------------------
+
+# Q3: Factorial using while loop
+#    Calculate fatorial of a number
+#    Show step-by-step calculation
+#    Example: 5! = 5 × 4 × 3 × 2 × 1 = 120
+
