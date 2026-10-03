@@ -26,3 +26,10 @@ print("Coordinates: ", coordinates)
 total_sum = 0
 max_val = coordinates[0]
 max_idx = 0
+
+for idx, val in enumerate(coordinates) :
+    total_sum += val
+    if val > max_val :
+        max_val = val
+        max_idx = idx
+        
