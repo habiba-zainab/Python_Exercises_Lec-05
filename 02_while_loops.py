@@ -150,3 +150,7 @@ while True :
         num += 1
 
 # ----------------------------------------------------------
+
+# Q7:  while with continue - skip even numbers
+#    Print odd numbers from 1 to 20
+#    Use continue to skip even numbers
