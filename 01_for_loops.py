@@ -131,3 +131,9 @@ for n in range(5, 16) :
     print(n, end=" ")
 print()
 
+print("Even (0-20): ", end=" ")
+for n in range(0, 21, 2) :
+    print(n, end=" ")
+print()
+
+
