@@ -20,3 +20,10 @@ print("\n--- Q1: Rectangle ---")
 
 rows = 4
 columns = 6
+
+for i in range(rows) :
+    for j in range(columns) :
+        print("*", end=" ")
+    print()
+
+# ----------------------------------------------------------
