@@ -49,3 +49,16 @@ print("Grand Total: Rs." + str(total))
 # ----------------------------------------------------------
 
 print("\n--- Receipt ---")
+
+for row in range(5) :
+    for col in range(25) :
+        if row == 0 or row == 4 :
+            print("=", end=" ")
+        elif col == 0 or col == 24 :
+            print("|", end=" ")
+        elif row == 2 and 8 <= col <= 16 :
+            print("*", end=" ")
+        else:
+            print(" ", end=" ")
+    print()
+
