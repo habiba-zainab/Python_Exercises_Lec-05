@@ -69,3 +69,12 @@ for i in range(height) :
 #    Middle row has 9 stars
 
 print("\n--- Q4: Diamond Pattern ---")
+
+height = 5
+
+for i in range(height) :
+    for j in range(height - i - 1) :
+        print(" ", end=" ")
+    for k in range(2 * i + 1) :
+        print("*", end=" ")
+    print()
