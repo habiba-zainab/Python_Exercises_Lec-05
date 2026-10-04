@@ -43,3 +43,7 @@ if total > 500 :
     print("Discount (10%): -Rs." + str(discount))
 
 print("Grand Total: Rs." + str(total))
+
+# ----------------------------------------------------------
+#    STEP 03:    Receipt Border Pattern
+# ----------------------------------------------------------
