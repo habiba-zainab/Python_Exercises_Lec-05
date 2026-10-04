@@ -91,3 +91,7 @@ for i in range(height - 2, -1, -1) :
 # ==========================================================
 # PART C:   Mathematical Number Patterns
 # ==========================================================
+
+# Q5: Number Pyramid
+#    Print numbers in pyramid form
+#    Rows = 5
