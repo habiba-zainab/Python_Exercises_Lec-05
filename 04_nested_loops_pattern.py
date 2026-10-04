@@ -33,3 +33,12 @@ for i in range(rows) :
 #    Height = 5
 
 print("\n--- Q2: Right-angled Triangle ---")
+
+height = 5
+
+for i in range(1, height + 1) :
+    for j in range(i) :
+        print("*", end=" ")
+    print()
+
+# ----------------------------------------------------------
