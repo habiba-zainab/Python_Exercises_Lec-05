@@ -110,3 +110,5 @@ for i in range(1, rows + 1) :
 # Q6: Floyd's triangle
 #    Print Floyd's triangle with numbers
 #    Rows = 5
+
+print("\n--- Q6: Floyd's Triangle ---")
