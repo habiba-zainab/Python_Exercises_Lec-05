@@ -95,3 +95,5 @@ for i in range(height - 2, -1, -1) :
 # Q5: Number Pyramid
 #    Print numbers in pyramid form
 #    Rows = 5
+
+print("\n--- Q5: Number Pyramid ---")
