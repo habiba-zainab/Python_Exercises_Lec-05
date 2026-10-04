@@ -46,3 +46,7 @@ for i in range(1, height + 1) :
 # ==========================================================
 # PART B:   Centered Symmetric Patterns
 # ==========================================================
+
+# Q3: Pyramid of stars (centered)
+#    Print centered pyramid
+#    Height = 5
