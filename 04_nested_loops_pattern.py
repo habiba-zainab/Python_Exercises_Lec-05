@@ -97,3 +97,12 @@ for i in range(height - 2, -1, -1) :
 #    Rows = 5
 
 print("\n--- Q5: Number Pyramid ---")
+
+rows = 5
+
+for i in range(1, rows + 1) :
+    for j in range(1, i + 1) :
+        print(j, end=" ")
+    print()
+
+# ----------------------------------------------------------
