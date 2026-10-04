@@ -1,0 +1,9 @@
+"""
+
+===========================================================
+   LECTURE 05 - SET 04 :   NESTED LOOPS PATTERNS
+   Topics :     Nested Loops, Pattern Printing
+   Total Questions :  
+============================================================
+
+"""
