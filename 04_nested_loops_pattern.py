@@ -50,3 +50,5 @@ for i in range(1, height + 1) :
 # Q3: Pyramid of stars (centered)
 #    Print centered pyramid
 #    Height = 5
+
+print("\n--- Q3: Centered Pyramid ---")
