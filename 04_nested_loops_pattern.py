@@ -31,3 +31,5 @@ for i in range(rows) :
 # Q2: Right-angled triangle
 #    Print right-angled triangle
 #    Height = 5
+
+print("\n--- Q2: Right-angled Triangle ---")
