@@ -11,3 +11,7 @@
 # ==========================================================
 # PART A:   Basic Geometric Patterns
 # ==========================================================
+
+# Q1: Rectangle of stars
+#    Print rectangle of stars
+#    Rows = 4,  Columns = 6
