@@ -27,3 +27,7 @@ for i in range(rows) :
     print()
 
 # ----------------------------------------------------------
+
+# Q2: Right-angled triangle
+#    Print right-angled triangle
+#    Height = 5
