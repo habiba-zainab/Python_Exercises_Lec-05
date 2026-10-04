@@ -67,3 +67,5 @@ for i in range(height) :
 # Q4: Diamond pattern
 #    Print diamond shape 
 #    Middle row has 9 stars
+
+print("\n--- Q4: Diamond Pattern ---")
