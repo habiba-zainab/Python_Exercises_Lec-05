@@ -73,3 +73,15 @@ sales = [1200, 800, 950, 2100, 2500]
 best_day = days[0]
 best_sale = sales[0]
 total_sales = 0
+
+for i in range(len(days)) :
+    total_sales += sales[i]
+    if sales[i] > best_sale :
+        best_sale = sales[i]
+        best_day = days[i]
+    if sales[i] < 1000 :
+        print(days[i] + ": Rs." + str(sales[i]), "⚠ Low")
+        continue
+    print(days[i] + ": Rs." + str(sales[i]), "✓")
+
+    
