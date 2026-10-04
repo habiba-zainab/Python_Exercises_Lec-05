@@ -20,3 +20,6 @@ print("\n--- Menu ---")
 menu = ['Burger', 'Pizza', 'Pasta', 'Juice']
 prices = [150, 250, 180, 60]
 
+for i, item in enumerate(menu, 1) :
+    print(str(i) + ".", item, "- Rs." + str(prices[i-1]))
+
