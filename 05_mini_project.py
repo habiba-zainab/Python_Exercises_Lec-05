@@ -31,3 +31,9 @@ print("\n--- Order & Bill ---")
 
 orders = [(0, 2), (1, 1), (3, 3)]   # (menu_index, qty)
 total = 0
+
+for idx, qty in orders :
+    subtotal = prices[idx] * qty
+    total += subtotal
+    print(menu[idx], "x" + str(qty), "= Rs." + str(subtotal))
+
