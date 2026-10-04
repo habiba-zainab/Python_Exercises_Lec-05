@@ -67,3 +67,9 @@ for row in range(5) :
 # ----------------------------------------------------------
 
 print("\n--- Weekly Sales ---")
+
+days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri']
+sales = [1200, 800, 950, 2100, 2500]
+best_day = days[0]
+best_sale = sales[0]
+total_sales = 0
