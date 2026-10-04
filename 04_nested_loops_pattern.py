@@ -18,3 +18,5 @@
 
 print("\n--- Q1: Rectangle ---")
 
+rows = 4
+columns = 6
