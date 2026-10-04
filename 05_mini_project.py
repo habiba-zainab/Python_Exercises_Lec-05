@@ -84,4 +84,6 @@ for i in range(len(days)) :
         continue
     print(days[i] + ": Rs." + str(sales[i]), "✓")
 
-    
+print("Total: Rs." + str(total_sales))
+print("Best Day: ", best_day, "(Rs." + str(best_sale) + ")")
+
