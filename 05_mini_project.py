@@ -37,3 +37,9 @@ for idx, qty in orders :
     total += subtotal
     print(menu[idx], "x" + str(qty), "= Rs." + str(subtotal))
 
+if total > 500 :
+    discount = total * 10 // 100
+    total -= discount
+    print("Discount (10%): -Rs." + str(discount))
+
+print("Grand Total: Rs." + str(total))
