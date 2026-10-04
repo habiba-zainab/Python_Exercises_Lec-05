@@ -17,3 +17,6 @@
 
 print("\n--- Menu ---")
 
+menu = ['Burger', 'Pizza', 'Pasta', 'Juice']
+prices = [150, 250, 180, 60]
+
