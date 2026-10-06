@@ -10,3 +10,7 @@ A personal Python learning repository documenting my progress through **Lecture 
 
 ## 📚 Overview
 This repository contains my practice work for Lecture 05, focusing on mastering loops, iterative logic, loop control statements, and iterating across various Python data structures.
+
+---
+
+## 📖 Topics Covered
