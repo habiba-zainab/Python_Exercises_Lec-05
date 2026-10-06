@@ -50,3 +50,17 @@ This repository contains my practice work for Lecture 05, focusing on mastering 
 | [`05_mini_project.py`](05_mini_project.py) | Restaurant Billing System | Mini Project |
 
 ---
+
+## 📂 Repository Structure
+
+```text
+lecture-05/
+│
+├── 📝 01_for_loops.py                  # For Loops & Range-based Iterations
+├── 📝 02_while_loops.py                # While Loops & Loop Control (break/continue)
+├── 📝 03_loops_with_collections.py     # Iterating over Lists, Dicts, and Sets
+├── 📝 04_nested_loops_pattern.py       # Nested Loops & Pattern Printing
+└── 🚀 05_mini_project.py               # 🍽️ Restaurant Billing System
+```
+
+---
