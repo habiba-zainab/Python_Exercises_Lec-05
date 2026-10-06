@@ -20,3 +20,8 @@ This repository contains my practice work for Lecture 05, focusing on mastering 
 * The `range()` function (`start`, `stop`, `step`)
 * Iterating over strings 
 * Loop control statements: `break`, `control`
+
+### ✅ While Loops & Control Flow
+* Condition-based loops
+* Infinite loops and how to avoid them
+* Loop control statements: `break`, `continue`, `pass`
