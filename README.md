@@ -38,3 +38,15 @@ This repository contains my practice work for Lecture 05, focusing on mastering 
 * Star (`*`), number, and alphabet pattern printing
 
 ---
+
+## 📂 Practiced Files
+
+| File | Concepts Practiced | Questions |
+| ---- | ------------------ | --------- |
+| [`01_for_loops.py`](./01_for_loops.py) | For Loops - Basics, range(), enumerate(), zip() | 09 |
+| [`02_while_loops.py`](./02_while_loops.py) | While Loops - Basics, Conditions, Loop Control | 09 |
+| [`03_loops_with_collections.py`](./03_loops_with_collections.py) | Loops with Lists, Tuples, Dictionaries, Sets, Comprehensions | 07 |
+| [`04_nested_loops_pattern.py`](04_nested_loops_pattern.py) | Nested Loops, Pattern Printing | 06 |
+| [`05_mini_project.py`](05_mini_project.py) | Restaurant Billing System | Mini Project |
+
+---
