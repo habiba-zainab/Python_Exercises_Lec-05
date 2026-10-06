@@ -14,3 +14,9 @@ This repository contains my practice work for Lecture 05, focusing on mastering 
 ---
 
 ## 📖 Topics Covered
+
+### ✅ For Loops & Control Flow
+* Syntax and iteration mechanism
+* The `range()` function (`start`, `stop`, `step`)
+* Iterating over strings 
+* Loop control statements: `break`, `control`
