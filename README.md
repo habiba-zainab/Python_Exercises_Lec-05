@@ -25,3 +25,9 @@ This repository contains my practice work for Lecture 05, focusing on mastering 
 * Condition-based loops
 * Infinite loops and how to avoid them
 * Loop control statements: `break`, `continue`, `pass`
+
+### ✅ Loops with Collections
+* Iterating over Lists and Tuples
+* Traversing Dictionaries (`keys()`, `values()`, and `items()`)
+* Iterating over Sets
+* Useful iteration tools: `enumerate()` and `zip()`
