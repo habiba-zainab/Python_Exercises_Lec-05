@@ -31,3 +31,10 @@ This repository contains my practice work for Lecture 05, focusing on mastering 
 * Traversing Dictionaries (`keys()`, `values()`, and `items()`)
 * Iterating over Sets
 * Useful iteration tools: `enumerate()` and `zip()`
+
+### ✅ Nested Loops & Patterns
+* Nested `for` and `while` loops
+* Multi-dimensional data traversal
+* Star (`*`), number, and alphabet pattern printing
+
+---
