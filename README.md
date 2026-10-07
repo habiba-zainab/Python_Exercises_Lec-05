@@ -96,3 +96,9 @@ My learning methodology focuses on:
 ### 🍽️ Restaurant Billing System (`05_mini_project.py`)
 
 An interactive console application that simulates an ordering and billing terminal for a restaurant using continuous loop execution and collection processing.
+
+#### ✨ Key Features
+* Display interactive menu items with dynamic pricing
+* Continuous order placement loop with quantity selection
+* Real-time order summary calculation (subtotal, tax, discounts)
+* Final itemized receipt generation
