@@ -77,3 +77,5 @@ By completing this lecture, I have learned to:
 * ✅ Build interactive, loop-driven menu systems for real-world applications
 
 ---
+
+## 💡 Practice Approach
