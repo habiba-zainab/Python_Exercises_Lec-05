@@ -64,3 +64,5 @@ lecture-05/
 ```
 
 ---
+
+## 🎯 Learning Objectives
