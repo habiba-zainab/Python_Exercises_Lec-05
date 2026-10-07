@@ -92,3 +92,7 @@ My learning methodology focuses on:
 ---
 
 ## 🚀 Mini Project
+
+### 🍽️ Restaurant Billing System (`05_mini_project.py`)
+
+An interactive console application that simulates an ordering and billing terminal for a restaurant using continuous loop execution and collection processing.
