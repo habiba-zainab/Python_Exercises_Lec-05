@@ -68,3 +68,12 @@ lecture-05/
 ## 🎯 Learning Objectives
 
 By completing this lecture, I have learned to:
+
+* ✅ Automate repetitive tasks using `for` and `while` loops
+* ✅ Control loop execution with `break`, `continue`, and `pass`
+* ✅ Efficiently iterate across lists, tuples, dictionaries, and sets
+* ✅ Use `enumerate()` and `zip()` for clean multi-variable iterations
+* ✅ Implement nested loops for multi-level logic and pattern design
+* ✅ Build interactive, loop-driven menu systems for real-world applications
+
+---
