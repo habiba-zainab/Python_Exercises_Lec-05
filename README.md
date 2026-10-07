@@ -109,3 +109,17 @@ An interactive console application that simulates an ordering and billing termin
 * Flow control with `break` and conditional checks
 
 ---
+
+### Current Lecture Status
+
+- [x] **Lecture 01** — Python Fundamentals ✅ COMPLETED
+- [x] **Lecture 02** — Strings & Conditionals ✅ COMPLETED
+- [x] **Lecture 03** — Lists & Tuples ✅ COMPLETED
+- [x] **Lecture 04** — Dictionaries & Sets ✅ COMPLETED
+- [x] **Lecture 05** — Loops in Python ✅ COMPLETED
+- [ ] **Lecture 06** — Happening soon
+- [ ] **Lecture 07** — Happening soon
+- [ ] **Lecture 08** — Happening soon
+- [ ] **Lecture 09** — Happening soon
+
+---
