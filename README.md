@@ -90,3 +90,5 @@ My learning methodology focuses on:
 6. **Documenting learnings and observations**
 
 ---
+
+## 🚀 Mini Project
