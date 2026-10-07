@@ -102,3 +102,10 @@ An interactive console application that simulates an ordering and billing termin
 * Continuous order placement loop with quantity selection
 * Real-time order summary calculation (subtotal, tax, discounts)
 * Final itemized receipt generation
+
+#### 💡 Concepts Applied
+* `while` loops for interactive menus & `for` loops for receipt generation
+* Nested collections with loop traversal
+* Flow control with `break` and conditional checks
+
+---
